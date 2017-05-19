@@ -32,7 +32,7 @@ public class AccountsControllerTests extends AbstractAccountControllerTests {
 
 		@Override
 		public int countAccounts() {
-			return 1;
+			return 2;
 		}
 	}
 
